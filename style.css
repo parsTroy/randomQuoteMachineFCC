@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #1E4270;
+    color: #fff;
+}
+
+#quote-box {
+    margin-top: 150px;
+    width: 400px;
+    height: 400px;
+}
+
+#tweet-quote {
+    margin-left: 10px;
+    color: #fff;
+}
+
+#new-quote {
+    margin-right: 10px;
+    border-radius: 15%;
+    border: none;
+    color: #1E4270;
+}
